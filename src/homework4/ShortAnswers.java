@@ -3,7 +3,7 @@ package homework4;
 public class ShortAnswers {
 
     /*
-1*  What is a nested for loop in Java?
+1*  What is a nested for loop in Java?git a
         A child loop within a parent loop.
 2* Can you give an example of a nested for loop in Java?
         When accessing values of a two-dimensional loop, a nested loop can be applied.

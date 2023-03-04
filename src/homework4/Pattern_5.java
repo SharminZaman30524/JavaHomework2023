@@ -14,16 +14,15 @@ public class Pattern_5 {
     }
 
     public int reverseTriangle(int number) {
-        for (int i = 1; i <= number; i++) {
-            for (int j = number; j >= i ; j--) {
+        for (int i = number; i >= 1; i--) {
+            //for (int j = number; j <= i ; j--) {
+            for (int j = i; j >= 1 ; j--) {
                 System.out.print(j);
 
             }
             System.out.println(" ");
-
         }
         return number;
-
     }
 }
 
